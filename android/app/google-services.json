@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "613060866523",
+    "firebase_url": "https://kollnet-39e23-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kollnet-39e23",
+    "storage_bucket": "kollnet-39e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613060866523:android:256975472bf9f68f0b37fe",
+        "android_client_info": {
+          "package_name": "com.thechilldeveloper.KollNet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613060866523-o2ksqvo23ehn9n3bv1kjghsuro8csscg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thechilldeveloper.KollNet",
+            "certificate_hash": "97b3ab6aa01af3cd6923879751c4f3bf1e7a6b9c"
+          }
+        },
+        {
+          "client_id": "613060866523-d5thgs4l7dheoan3i12kkvm2gudt9551.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATCOOG5UOT2fxUYkuRm8lAzcfUgJS5zTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613060866523-d5thgs4l7dheoan3i12kkvm2gudt9551.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
